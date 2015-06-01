@@ -1,0 +1,12 @@
+{
+  "name": "@nib/highlight",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-health-funds/highlight.git"
+  },
+  "devDependencies": {
+    "assert": "0.4.0"
+  }
+}
